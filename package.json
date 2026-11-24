@@ -1,0 +1,1 @@
+{"description":"A one-line roast of the gadget I use every day — my charger cable only works at one exact angle — make.fun entry.","engines":{"node":">=22.18"},"license":"MIT","name":"u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610-bot","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
